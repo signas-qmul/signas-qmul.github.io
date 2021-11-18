@@ -72,6 +72,17 @@ Depending on the number of submissions received, we may play all submitted proje
 videos, or just those of the highest voted projects.
 In any case, a link to all submitted projects will be provided.
 
+## Rules
+
+In order to be included in voting, all teams must submit:
+
+1. A demonstration video of two minutes or less
+2. A public source code repository (or steps to recreate the technical portion of the
+hack in the case of creative applications)
+
+Submitting an interactive demo is also encouraged where appropriate, although this is
+not a requirement for entry.
+
 ## Voting
 
 Whilst the spirit of NASH is not competitive (and there are no material prizes to be
